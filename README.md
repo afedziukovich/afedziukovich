@@ -44,7 +44,7 @@ Ready to learn new things, develop as a specialist and be useful in the team.
 * IT-incubator.io [курс Front-end Разработчик](https://sandbox.it-incubator.io/steps/competition) (in progress)
 * Freecodecamp.org [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/afedziukovich) (in progress)
 * Onlinetestpad.com [Основы JavaScript](https://onlinetestpad.com/ru/testresult/1297623-osnovy-javascript?res=xfb4cu4s2ojaq)
-* Belhard [Комплексный интернет-маркетинг]()
+* Belhard [Комплексный интернет-маркетинг](https://github.com/afedziukovich/afedziukovich/blob/main/000_internet_marketing_certificate.jpg)
 
 ------
 ### Languages:
