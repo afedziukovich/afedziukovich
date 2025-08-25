@@ -1,6 +1,5 @@
 # Andrei Fedziukovich
 
-![Andrei Fedziukovich](andrei.jpg "Andrei Fedziukovich")
 ### Junior Frontend Developer
 
 ------
